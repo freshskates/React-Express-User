@@ -1,0 +1,7 @@
+.todo_container {
+  display: block;
+}
+
+.todo_element {
+  display: flex;
+}
